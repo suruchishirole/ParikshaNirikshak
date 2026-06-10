@@ -6,7 +6,7 @@ Pariksha Nirikshak is an AI-powered proctoring system designed to monitor offlin
 Objective: The goal of Pariksha Nirikshak is to assist invigilators by providing an intelligent monitoring solution that enhances exam integrity and reduces manual supervision efforts.
 
 🚀 Features:
-Real-time exam monitoring.
+<br>Real-time exam monitoring.
 AI-based suspicious behavior detection.
 Computer vision for face and head movement tracking.
 Automated alerts for potential cheating attempts.
